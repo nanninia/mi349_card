@@ -1,4 +1,17 @@
 body {
-    font-family: sans-serif;
+    font-family: Helvetica, sans-serif;
     background-color: #ccc;
+    color: #222;
+}
+
+img{
+    width: 100%;
+}
+
+.card {
+    background-color: #f3f3f3;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+
 }
